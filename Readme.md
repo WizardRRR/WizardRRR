@@ -4,12 +4,12 @@
 
 _I love the world of software development, I love clean code_
 
-<div>
+</div>
 <p align="center">
   <a href="https://github.com/WizardRRR"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Royer+Rutti+Ramos;WizardRRR;2+years+of+experience"></a>
 </p>
 <h3 align="left">Skills</h3>
-<p align="start">
+<p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
@@ -58,7 +58,6 @@ _I love the world of software development, I love clean code_
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WizardRRR&theme=radical&hide_border=false"><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizardRRR&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br/>
 </p>
----
 
 <div align="center">
 
