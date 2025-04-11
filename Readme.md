@@ -6,7 +6,7 @@ _I love the world of software development, I love clean code_
 
 </div>
 <p align="center">
-  <a href="https://github.com/wizardrevenge"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Royer+Rutti+Ramos;wizardrevenge;2+years+of+experience"></a>
+  <a href="https://github.com/wizardrevenge"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Royer+Rutti+Ramos;wizardrevenge;3+years+of+experience"></a>
 </p>
 <h3 align="left">Skills</h3>
 <p>
